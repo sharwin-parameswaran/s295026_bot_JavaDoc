@@ -1,8 +1,6 @@
 # INSTRUCTIONS
 
-# s295026 Bot JavaDoc
-
-## Instructions
+**s295026 Bot JavaDoc**
 
 1. **Download the ZIP**: Click on the "Code" button in this repository and select "Download ZIP."
 2. **Extract the ZIP**: Once the download is complete, extract the ZIP file to your desired location.
