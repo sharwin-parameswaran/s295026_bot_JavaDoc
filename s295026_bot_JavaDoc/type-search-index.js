@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"my.uum","l":"AppTest"},{"p":"my.uum","l":"BotCommands"},{"p":"my.uum","l":"ErrorHandler"},{"p":"my.uum","l":"FunFactHandler"},{"p":"my.uum","l":"JokeHandler"},{"p":"my.uum","l":"Main"},{"p":"my.uum","l":"QuoteHandler"},{"p":"my.uum","l":"WeatherApiHandler"}];updateSearchResults();
